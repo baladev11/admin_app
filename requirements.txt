@@ -1,3 +1,4 @@
 wandb
 streamlit
 pandas
+python-dotenv
