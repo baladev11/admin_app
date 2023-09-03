@@ -2,3 +2,4 @@ wandb
 streamlit
 pandas
 python-dotenv
+pdf2image
