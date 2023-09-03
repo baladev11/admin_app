@@ -1,0 +1,12 @@
+2023-09-02 18:21:19.385 Uncaught app exception
+Traceback (most recent call last):
+  File "C:\Users\HP\anaconda3\envs\dvc_tu\lib\site-packages\streamlit\runtime\scriptrunner\script_runner.py", line 552, in _run_script
+    exec(code, module.__dict__)
+  File "C:\Users\HP\Downloads\examples-master\examples-master\examples\streamlit\wandb_streamlit_app.py", line 91, in <module>
+    main()
+  File "C:\Users\HP\Downloads\examples-master\examples-master\examples\streamlit\wandb_streamlit_app.py", line 52, in main
+    log_example_html_to_wandb()
+  File "C:\Users\HP\Downloads\examples-master\examples-master\examples\streamlit\.\wandb_utils.py", line 90, in log_example_html_to_wandb
+    demo_html = wandb.Html(dest_path)
+  File "C:\Users\HP\anaconda3\envs\dvc_tu\lib\site-packages\wandb\sdk\data_types\html.py", line 52, in __init__
+    with open(tmp_path, "w", encoding="utf-8") as out:

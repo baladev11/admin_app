@@ -1,0 +1,36 @@
+{
+    "os": "Windows-10-10.0.22621-SP0",
+    "python": "3.10.0",
+    "heartbeatAt": "2023-09-02T12:51:09.026267",
+    "startedAt": "2023-09-02T12:51:02.964446",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "C:\\Users\\HP\\Downloads\\examples-master\\examples-master\\examples\\streamlit\\wandb_streamlit_app.py",
+    "codePath": "wandb_streamlit_app.py",
+    "host": "LAPTOP-8RD863K6",
+    "username": "HP",
+    "executable": "C:\\Users\\HP\\anaconda3\\envs\\dvc_tu\\python.exe",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 991.0,
+        "min": 0.0,
+        "max": 1190.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 991.0,
+            "min": 0.0,
+            "max": 1190.0
+        }
+    ],
+    "disk": {
+        "total": 237.2848892211914,
+        "used": 231.72180938720703
+    },
+    "memory": {
+        "total": 7.696052551269531
+    }
+}
