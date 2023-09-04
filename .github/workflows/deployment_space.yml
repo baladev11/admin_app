@@ -17,4 +17,4 @@ jobs:
       - name: Push to hub
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: git push --force https://baladev11:$HF_TOKEN@huggingface.co/spaces/solo21/plastic_detection_admin
+        run: git push https://baladev11:$HF_TOKEN@huggingface.co/spaces/solo21/plastic_detection_admin
