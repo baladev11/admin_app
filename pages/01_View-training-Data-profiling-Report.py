@@ -5,7 +5,7 @@ import io
 # Main page heading
 st.title("Profiling Report for Trained Image Data")
 
-pdf_path = "Report.pdf"
+pdf_path = "Report-n3.pdf"
 
 # Convert the PDF to images
 images = convert_from_path(pdf_path)
