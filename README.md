@@ -1,3 +1,4 @@
+## Eagle Eye Plastic Detector admin_app
 ---
 title: vgp_finder admin application
 emoji: 📹
@@ -7,4 +8,3 @@ sdk: streamlit
 app_file: wandb_streamlit_app.py
 pinned: false
 ---
-# admin_app
